@@ -1,6 +1,10 @@
 /*
 INDEX
 Lección 18.1: https://youtu.be/OuJerKzV5T0?t=18219
+Existn indices: 
+*Primarios: asocian a la primary key,
+*Unicos: palabra inique,
+*Compuestos: asocian mas de 2 columnas
 */
 
 -- Crea un índice llamado "idx_name" en la tabla "users" asociado al campo "name"
