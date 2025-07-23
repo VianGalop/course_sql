@@ -1,7 +1,8 @@
 /*
 INDEX
 Lección 18.1: https://youtu.be/OuJerKzV5T0?t=18219
-Existn indices: 
+*Indices: permiten rapida lectura de los datos pero lenta en la escritura de los mismos. 
+Existen indices: 
 *Primarios: asocian a la primary key,
 *Unicos: palabra inique,
 *Compuestos: asocian mas de 2 columnas
